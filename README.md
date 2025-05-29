@@ -1,4 +1,4 @@
-# Compression
+# Compression  
 ---
 ## このプログラムは...  
 実行時に出てくるウィンドウにVisual Studioのフォルダを入れることによって  
