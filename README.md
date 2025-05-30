@@ -61,7 +61,7 @@ exeファイルを検知し
 ![写真がないのぜ！](写真達/Filezipapplicationimage7.png)  
   
   
-リネーム実行！  
+圧縮開始！  
 ![写真がないのぜ！](写真達/Filezipapplicationimage8.png)  
   
   
