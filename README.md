@@ -51,18 +51,18 @@ exeファイルを検知し
   
 ## 実際に使ってみる
 この四角の中にvisual studioのフォルダを入れて・・・  
-![写真がないのぜ！](写真達/Filezipapplicationimage5.png)  
+![写真がないのぜ！](写真達/FileZipApplicationImage5.png)  
   
 ここに圧縮したいフォルダを何処に入れるかを参照・・・  
-![写真がないのぜ！](写真達/Filezipapplicationimage6.png)  
+![写真がないのぜ！](写真達/FileZipApplicationImage6.png)  
   
   
 ここにフォルダネームを記入して…  
-![写真がないのぜ！](写真達/Filezipapplicationimage7.png)  
+![写真がないのぜ！](写真達/FileZipApplicationImage7.png)  
   
   
 圧縮開始！  
-![写真がないのぜ！](写真達/Filezipapplicationimage8.png)  
+![写真がないのぜ！](写真達/FileZipApplicationImage8.png)  
   
   
 ## 最後に・・・  
